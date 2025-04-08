@@ -1,0 +1,16 @@
+{
+  "name": "jsaqa_hw2_node",
+  "version": "1.0.0",
+  "description": "HW_2_Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HW",
+    "JS",
+    "Node"
+  ],
+  "author": "Dmitry Tarasov",
+  "license": "ISC"
+}
