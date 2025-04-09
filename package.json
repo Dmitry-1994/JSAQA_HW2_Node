@@ -4,7 +4,9 @@
   "description": "HW_2_Node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
   },
   "keywords": [
     "HW",
@@ -12,5 +14,11 @@
     "Node"
   ],
   "author": "Dmitry Tarasov",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3"
+  }
 }
